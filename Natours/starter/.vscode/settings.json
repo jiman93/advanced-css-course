@@ -17,5 +17,6 @@
     "scss.validate": false,
     "less.validate": false,
     "editor.wordWrap": "on",
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "git.ignoreLimitWarning": true
   }
